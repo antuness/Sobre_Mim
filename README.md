@@ -9,8 +9,8 @@
 ## 🧰 Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
-![YOLOv11](https://img.shields.io/badge/-YOLOv11-333333?style=flat)
-![Detectron2](https://img.shields.io/badge/-Detectron2-333333?style=flat)
+![YOLO](https://img.shields.io/badge/YOLOv11-in%20use-green)
+![Detectron2](https://img.shields.io/badge/Detectron2-active-blue)
 ![FiftyOne](https://img.shields.io/badge/-FiftyOne-333333?style=flat)
 ![CLIP](https://img.shields.io/badge/-CLIP-333333?style=flat)
 ![FAISS](https://img.shields.io/badge/-FAISS-333333?style=flat)

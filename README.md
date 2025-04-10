@@ -1,31 +1,38 @@
-# 🌿 Olá! Eu sou a Sami 👋
+# 🌿 Hello! I'm Antunes 👋
 
-🎓 Profissional de Machine Learning com foco em visão computacional  
-🚀 Especializada em treinamento de modelos para detecção de objetos com YOLO e Detectron2  
-🧪 Explorando curadoria de dados com FiftyOne, embeddings com CLIP e busca semântica com FAISS  
-🏃 Apaixonada por corrida, musculação e jiu-jitsu  
-💻 Notebook de guerra: Acer Predator Helios 18 com RTX 4090 💪
+I'm a Machine Learning professional focused on computer vision. I specialize in training object detection models using YOLO and Detectron2. I create my own datasets, experiment with various augmentation techniques, and fine-tune models for performance and accuracy.
 
-## 🧰 Tecnologias e Ferramentas
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
-![YOLO](https://img.shields.io/badge/YOLOv11-in%20use-green)
-![Detectron2](https://img.shields.io/badge/Detectron2-active-blue)
-![FiftyOne](https://img.shields.io/badge/-FiftyOne-333333?style=flat)
-![CLIP](https://img.shields.io/badge/-CLIP-333333?style=flat)
-![FAISS](https://img.shields.io/badge/-FAISS-333333?style=flat)
-![Google Colab](https://img.shields.io/badge/-Colab-333333?style=flat&logo=googlecolab)
-![CVAT](https://img.shields.io/badge/-CVAT-333333?style=flat)
+I currently use tools like FiftyOne, CLIP, and FAISS to improve dataset quality and build semantic search systems. I'm interested in combining traditional computer vision techniques with new generative and embedding-based approaches.
 
-## 📌 Projetos em Destaque
-- 🌱 **Detector de Ervas Brasileiras** com YOLOv11 e Detectron2, usando curadoria com FiftyOne
-- 🧬 **Busca Semântica com CLIP + FAISS** para análise de imagens anotadas
-- 🔧 **Infraestrutura Local para Treinamento** com CUDA, Python e visualização com W&B
+I run my experiments locally on a Predator Helios 18 with an RTX 4090, training YOLOv8, YOLOv10, YOLOv11, and Detectron2 models — depending on the needs of each project.
 
-## 🌟 Outros Interesses
-- Geração de imagens com **Stable Diffusion** para aumento de dataset  
-- Automatização de curadoria e análise com pipelines híbridos  
+---
 
-## 📫 Fale comigo:
-- LinkedIn: https://www.linkedin.com/in/samira-antunes/
-- Email: samira.n.antunes@gmail.com
+## 🔧 What I use daily
+
+- YOLOv8, YOLOv10, YOLOv11
+- Detectron2
+- FiftyOne
+- CLIP + FAISS
+- CVAT
+- Python + CUDA
+- Google Colab + JupyterLab
+- Stable Diffusion (for dataset augmentation)
+
+---
+
+## 🧪 What I'm building right now
+
+- An object detection model for **medicinal herbs sold at CEAGESP** (São Paulo's major produce market)
+- A workflow combining **YOLOv11 + CLIP + FiftyOne** for dataset curation and image validation
+- A system for **semantic image search** using **CLIP embeddings** + **FAISS**
+- A local training pipeline with **Weights & Biases** integration for tracking and visualization
+
+---
+
+## ❤️ What keeps me moving (literally)
+
+I'm a runner, weightlifter and jiu-jitsu enthusiast. While recovering from an injury, I’m focusing on light morning training, mobility work, and visualizing my movements until I can fully return to the mats. My body is strong, and I’m committed to moving every single day.
+
+---
+

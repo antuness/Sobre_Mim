@@ -1,4 +1,5 @@
 # 🌿 Olá! Eu sou a Sami 👋
+🌎 Read this in [English](README.md)
 
 🎓 Profissional de Machine Learning com foco em visão computacional  
 🚀 Especializada em treinamento de modelos para detecção de objetos com YOLO e Detectron2  

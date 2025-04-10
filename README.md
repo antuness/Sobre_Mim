@@ -36,3 +36,7 @@ I'm a runner, weightlifter and jiu-jitsu enthusiast. While recovering from an in
 
 ---
 
+## 📫 Let's connect:
+- LinkedIn: https://www.linkedin.com/in/samira-antunes/
+- Email: samira.n.antunes@gmail.com
+
